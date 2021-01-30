@@ -2,6 +2,7 @@
 Ferramenta de Auxílio na Gestão de Condomínios
 
 Desenvolvido no âmbito da Unidade Curricular de Laboratório de Engenharia Informática do Mestrado em Engenharia Informática da Universidade do Minho
+
 Nota 18 (0-20)
 
 Tecnologias:
